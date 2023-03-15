@@ -1,1 +1,9 @@
 # Analyzing-PSG-s-Formations-A-Look-at-Scoring-Opportunities-and-Defensive-Effectiveness
+
+After examining the Expected Goals per match for each formation, it becomes apparent that the 3-4-3 and 4-1-3-2 formations generate more scoring opportunities for PSG than any other formation. Moreover, to evaluate defensive effectiveness, we must also assess the Expected Goals Against for each formation. Upon analysis, we observe that these same two formations also perform the best in terms of defense.
+
+To gain a more comprehensive understanding of the formations' efficacy, we also assessed their respective goal-scoring capabilities. Intriguingly, the 3-4-3 and 4-1-3-2 formations were once again found to be the most proficient at putting the ball in the back of the net. It should be noted that scoring chances do not hold much weight if they do not result in actual goals, which is why we included the number of goals scored by each formation in our analysis.
+
+Upon closer examination, we noticed a logical inconsistency in our analysis. Specifically, the data for the 4-1-3-2 formation showed that PSG had only played a single match using this formation, totaling just 94 minutes. Therefore, it would not be reasonable to base our analysis solely on this one match, as various factors could have influenced the outcome, such as the quality of the opponent. To provide a more accurate assessment, we must identify the specific match in which PSG used the 4-1-3-2 formation and consider the opponent they played against.
+
+P.S : If the 4-1-3-2 formation was utilized for 94 minutes in different matches rather than a single game, this would provide us with a more extensive dataset to analyze. By considering multiple matches, we could gain a better understanding of the formation's overall effectiveness for PSG.
